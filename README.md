@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/ccb4806d3145
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/DiPlay/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/DiPlay-CN/releases) 下载。
 
 
 # DiPlay
